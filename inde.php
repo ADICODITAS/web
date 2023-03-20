@@ -3,7 +3,7 @@
 $servername = "ddd.mysql.database.azure.com";
 $username = "admin12";
 $password = "Coditas@123456";
-$dbname = "database_name";
+$dbname = "aditaya";
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 
